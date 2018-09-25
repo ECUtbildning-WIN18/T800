@@ -6,7 +6,8 @@ namespace T800
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Win18");
+            Console.WriteLine("Detta är min ändring!");
         }
     }
 }
