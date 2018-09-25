@@ -6,7 +6,7 @@ namespace T800
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello _!_");
+            Console.WriteLine("Hello ");
         }
     }
 }
